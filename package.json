@@ -1,0 +1,22 @@
+{
+  "name": "bookie",
+  "version": "1.0.0",
+  "description": "book destribution system",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "githun.com/poojamalviya/bookie"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "pooja",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.16",
+    "body-parser":"1.15.2"
+  }
+}
